@@ -8,17 +8,21 @@
 ## Compilation Instructions
 
 To compile all individual problems use the following commands in the terminal:
-```gcc -o problem1 problem1.c -lm
+```
+gcc -o problem1 problem1.c -lm
 gcc -o problem2 problem2.c
 gcc -o problem3 problem3.c -lm
 gcc -o problem4 problem4.c
 gcc -o problem5 problem5.c
-gcc -o problem6 problem6.c -lm```
+gcc -o problem6 problem6.c -lm
+```
 
 Run the compiled program with:
-```./problem1
+```
+./problem1
 ./problem2
-and so on...```
+and so on...
+```
 
 ---
 
