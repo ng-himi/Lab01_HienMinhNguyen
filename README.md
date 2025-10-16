@@ -1,6 +1,6 @@
 # Lab 01 C Foundation
 
-**Name:** Your Name Here  
+**Name:** Hien Minh Nguyen
 **Student ID:** Your Student ID Here
 
 ---
