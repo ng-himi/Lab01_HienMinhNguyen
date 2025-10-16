@@ -84,10 +84,9 @@ and so on...
 ---
 
 ## Known Issues / Limitations
-- Input validation is basic and may not handle all edge non-numeric input cases.
 - Negative number handling is only in digit extraction tasks.
 - No menu-driven interface; each problem is run separately by executing binaries.
-- No graphical or ASCII visualization implemented.
+- No ASCII visualization implemented.
 - Some large inputs for prime checking may take longer for naive implementation.
 
 ---
